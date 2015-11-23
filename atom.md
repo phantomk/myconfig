@@ -14,4 +14,3 @@
 ## config
 ### keybindings
 - `ctrl-shift-v`:markdown-preview
-- 
